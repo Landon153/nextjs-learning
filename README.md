@@ -2,7 +2,7 @@
 
 > Tặng các bạn Voucher giảm giá 100k khi mua khóa học tại edu.duthanhduoc.com: `YOUTUBE`
 
-Đây là khóa học miễn phí, mình còn có một khóa có phí nữa, nếu các bạn thấy cách dạy của mình hay và phù hợp thì có thể mua khóa Next.Js nâng cao của mình.
+Đây là khóa học miễn phí, mình còn có một khóa có phí nữa, nếu các bạn thấy cách dạy của mình hay và phù hợp thì có thể mua khóa NextJs nâng cao của mình.
 
 Hoặc đơn giản là muốn ủng hộ mình thì có thể mua cũng được 😂
 
