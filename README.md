@@ -4,7 +4,7 @@
 
 Đây là khóa học miễn phí, mình còn có một khóa có phí nữa, nếu các bạn thấy cách dạy của mình hay và phù hợp thì có thể mua khóa NextJs nâng cao của mình.
 
-Hoặc đơn giản là muốn ủng hộ mình thì có thể mua cũng được 😂
+Hoặc đơn giản là muốn ủng hộ mình thì có thể mua cũng được 😂.
 
 Để nhận link github và thông báo mới khi mình có khóa Next.js trả phí submit github tại [đây](https://duthanhduoc.com/courses/nextjs-super)
 
