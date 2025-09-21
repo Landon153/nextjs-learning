@@ -11,7 +11,7 @@ Hoặc đơn giản là muốn ủng hộ mình thì có thể mua cũng đượ
 ## Giới thiệu
 
 - Dự án: Shop bán hàng đơn giản.
-- Công nghệ: Backend Fastify và FrontEnd Next.js
+- Công nghệ: Backend Fastify và FrontEnd Next.js.
 
 Chức năng:
 
